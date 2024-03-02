@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NBT-API 2.12.2 plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/libs/NBT-API 2.12.2 plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

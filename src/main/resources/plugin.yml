@@ -1,0 +1,7 @@
+name: Popup-Tower
+main: me.itzsunboi.popuptower.Popup_Tower
+api-version: 1.20
+version: 1.0
+commands:
+  popuptower:
+    description: Activates the Popup Tower
